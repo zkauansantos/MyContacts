@@ -1,10 +1,14 @@
 class ContactControler {
-    index() {
-      // Listar todos os registros
+    index(request, response) {
+      response.send("Send from Contact Controller");
     }
 
     show() {
       // Obter um registro
+    }
+
+    store() {
+      // Criar novo registro
     }
 
     update() {
