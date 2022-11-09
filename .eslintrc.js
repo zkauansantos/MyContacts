@@ -15,5 +15,7 @@ module.exports = {
     quotes: ["error", "double"],
     "linebreak-style": 0,
     "class-methods-use-this": "off",
+    "import/newline-after-import": ["error", { count: 2 }],
+    "no-multiple-empty-lines": "off",
   },
 };
