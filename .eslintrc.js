@@ -17,5 +17,6 @@ module.exports = {
     "class-methods-use-this": "off",
     "import/newline-after-import": ["error", { count: 2 }],
     "no-multiple-empty-lines": "off",
+    "consistent-return": "off",
   },
 };
