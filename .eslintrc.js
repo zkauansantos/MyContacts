@@ -18,5 +18,7 @@ module.exports = {
     "import/newline-after-import": ["error", { count: 2 }],
     "no-multiple-empty-lines": "off",
     "consistent-return": "off",
+    camelcase: "off",
+    "object-curly-newline": "off",
   },
 };
