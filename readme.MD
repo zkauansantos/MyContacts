@@ -10,7 +10,6 @@ API desenvolvida com express, como um CRUD de contatos que consiste em cadastrar
 - Postgres
 - Yarn
 - Insomnia
-- Yarn
 
 ## Como rodar o projeto
 
