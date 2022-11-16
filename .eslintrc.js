@@ -20,5 +20,6 @@ module.exports = {
     "consistent-return": "off",
     camelcase: "off",
     "object-curly-newline": "off",
+    "no-unused-vars": ["error", { argsIgnorePattern: "next" }],
   },
 };
