@@ -10,7 +10,6 @@ API desenvolvida com express, como um CRUD de contatos que consiste em cadastrar
 - Postgres
 - Yarn
 - Insomnia
-- Yarn
 
 ## Como rodar o projeto
 
@@ -51,6 +50,9 @@ $ \c mycontacts
 ```
 ```
 $ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+```
+```
+$ \c mycontacts
 ```
 ```
 $ CREATE TABLE IF NOT EXISTS categories (
